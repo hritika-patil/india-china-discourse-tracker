@@ -1,8 +1,18 @@
-# India in China's Strategic Discourse Tracker
+# India in China's Strategic Discourse Tracker — Editorial Redesign v0.2
 
-A self-contained, no-build, GitHub Pages website for exploring researcher-reviewed Chinese government, academic and state-media claims about India's strategic role, 2019–2026.
+An editorial-style, no-build GitHub Pages website for exploring researcher-reviewed Chinese government, academic and state-media claims about India's strategic role, 2019–2026. The homepage prominently displays a preliminary qualitative research conclusion and three original-source evidence notes.
 
 **Current status:** Website prototype. Its source-linked dataset is an *exploratory, purposive sample*, not a representative measure of discourse, and no independent inter-coder assessment has been completed.
+
+## Updating an existing GitHub Pages site
+
+If the original starter site is **already live** (such as `https://hritika-patil.github.io/india-china-discourse-tracker/`), you do **not** need to create a repository or change the GitHub Pages settings again.
+
+**Easiest route:** Extract the `editorial-update-only.zip` file, then replace the matching files in your existing repository, keeping the same folder structure. The update changes `index.html`, `explore.html`, `timeline.html`, `methodology.html`, `404.html`, `assets/css/style.css`, this README and the changelog. The original JavaScript, JSON and CSV are unchanged.
+
+You can use GitHub Desktop to sync the extracted files to the existing repository and commit/push them; or use GitHub's **Add file → Upload files** for replacement files (verify that the existing file has been replaced and that nested folder paths remain correct). Refresh the public site after the deployment completes. If your browser still shows the older stylesheet, hard-refresh (`Ctrl+Shift+R` on Windows).
+
+**Editorial note:** The lead's phrase “Partnership persists. So do competitive readings.” refers to selected, attributed texts, **not** measured prevalence, India's actual policy behaviour, or general public sentiment. The evidence strip links the relevant primary-source pages.
 
 ## Contents
 

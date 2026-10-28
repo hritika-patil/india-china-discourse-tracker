@@ -1,3 +1,12 @@
+## 2026-10-29 — Editorial redesign, version 0.2
+
+- Replaced the dark dashboard-style front page with an ivory/charcoal/rust editorial design.
+- Positioned the **preliminary conclusion** prominently beside the homepage headline.
+- Added three source-linked observations immediately below the conclusion.
+- Restyled Overview, Explore Sources, Timeline and Methodology consistently.
+- Added a brief evidence-linked conclusion to the Methodology page.
+- Kept the underlying 31 records, dataset shape, filters, charts and GitHub Pages setup unchanged.
+
 # Change log
 
 ## 2026-10-29 — GitHub Pages starter, version 0.1
